@@ -11,7 +11,7 @@ La aplicación debe:
 Es necesario:
 * Cumplir con las reglas de linting del .eslintrc
 * Tipar el item de lista de supermercado.
-* Cumplir con las especificaciones visuales.
+* Cumplir con las especificaciones visuales (carpeta `specs`).
 
 Es muy importante:
 * Pensar en la experiencia de usuario, minimizar la cantidad de interacciónes necesarias para usar la aplicación.
