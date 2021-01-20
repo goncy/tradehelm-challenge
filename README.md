@@ -1,4 +1,5 @@
-# TradeHelm challenge
+![Tradehelm](./public/logo.svg "TradeHelm")
+
 En el camino desde mi casa al supermercado, mi cerebro pierde la capacidad de retener información, por ende necesito hacer una aplicación que se encargue de esa difícil tarea. No, no puedo usar Google Keep, Evernote, nada, soy dev, la tengo que hacer, además esto es un challenge así que agarrá la pala.
 
 La aplicación debe:
@@ -11,7 +12,7 @@ La aplicación debe:
 Es necesario:
 * Cumplir con las reglas de linting del .eslintrc
 * Tipar el item de lista de supermercado.
-* Cumplir con las especificaciones visuales (carpeta `specs`).
+* Cumplir con las especificaciones visuales.
 
 Es muy importante:
 * Pensar en la experiencia de usuario, minimizar la cantidad de interacciónes necesarias para usar la aplicación.
@@ -30,3 +31,8 @@ Cualquier adicional que contribuya a la aplicación sin complicarla, suma, dark 
 Modalidad de entrega:
 * Repositorio público subido a GitHub, Gitlab, Bitbucket.
 * Link a la aplicación funcionando.
+
+Ejemplos:
+> ![Vacío](./specs/vacio.png "Vacío")
+> ![Formulario](./specs/formulario.png "Formulario")
+> ![Lleno](./specs/lleno.png "Lleno")
