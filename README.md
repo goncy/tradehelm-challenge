@@ -26,3 +26,7 @@ Se puede usar:
 * Cualquier solución de estilos integrada o de fácil integración con `create-react-app` (CSS Modules, CSS Plano, SASS).
 
 Cualquier adicional que contribuya a la aplicación sin complicarla, suma, dark mode por ejemplo.
+
+Modalidad de entrega:
+* Repositorio público subido a GitHub, Gitlab, Bitbucket.
+* Link a la aplicación funcionando.
