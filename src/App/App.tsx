@@ -9,7 +9,7 @@ const App: React.FC = () => {
         <h1>
           <img alt="TradeHelm" className={styles.logo} src="/logo.svg" />
         </h1>
-        <h3 className={styles.text}>Lets get this party started</h3>
+        <h3>Lets get this party started</h3>
       </header>
     </div>
   );
