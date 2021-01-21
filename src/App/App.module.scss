@@ -6,8 +6,6 @@
 
 /* Header */
 .header {
-  margin-bottom: 12px;
-
   h1 {
     font-weight: 800;
     font-size: 2rem;
@@ -16,43 +14,8 @@
   }
 
   h3 {
-    font-weight: 500;
-    font-size: 1.5rem;
+    font-weight: 300;
+    font-size: 1.25rem;
     margin: 0;
-  }
-}
-
-// List
-ul.list {
-  padding: 0;
-  text-align: left;
-
-  li {
-    list-style: none;
-    background-color: #fafafa;
-    padding: 12px;
-    border-radius: 4px;
-    color: #333;
-
-    &:not(:first-of-type) {
-      margin-top: 12px;
-    }
-  }
-}
-
-/* Global */
-button.primary {
-  cursor: pointer;
-  background-color: dodgerblue;
-  color: white;
-  padding: 12px 36px;
-  font-size: 18px;
-  font-weight: 500;
-  border: none;
-  border-radius: 4px;
-  transition: background-color 0.25s linear;
-
-  &:hover {
-    background-color: cornflowerblue;
   }
 }

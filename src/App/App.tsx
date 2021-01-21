@@ -1,12 +1,16 @@
 import * as React from "react";
 
-import styles from "./App.module.css";
+import styles from "./App.module.scss";
 
 const App: React.FC = () => {
   return (
     <div className={styles.container}>
-      <img alt="logo" className={styles.logo} src="/logo.svg" />
-      <p className={styles.text}>Lets get this party started</p>
+      <header className={styles.header}>
+        <h1>
+          <img alt="logo" className={styles.logo} src="/logo.svg" />
+        </h1>
+        <h3 className={styles.text}>Lets get this party started</h3>
+      </header>
     </div>
   );
 };
