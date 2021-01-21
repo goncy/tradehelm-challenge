@@ -7,7 +7,7 @@ const App: React.FC = () => {
     <div className={styles.container}>
       <header className={styles.header}>
         <h1>
-          <img alt="TradeHelm" className={styles.logo} src="/logo.svg" />
+          <img alt="TradeHelm" src="/logo.svg" />
         </h1>
         <h3>Lets get this party started</h3>
       </header>
